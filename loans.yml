@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 cards:
-  message: "Loans Microservice"
+  message: "Loans Microservice default profile"
   contact:
-    name: "shubham1"
+    name: "shubham12"
     email: "shubham1@in.com"
   onCall:
     - 1234567
