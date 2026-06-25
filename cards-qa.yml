@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 cards:
-  message: "Cards Microservice for QA profile microservice"
+  message: "Cards Microservice for QA profile microservice using webhook API"
   contact:
     name: "shubham321"
     email: "shubham1@in.com"
