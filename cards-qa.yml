@@ -4,7 +4,7 @@ build:
 cards:
   message: "Cards Microservice for QA profile microservice"
   contact:
-    name: "shubham123"
+    name: "shubham321"
     email: "shubham1@in.com"
   onCall:
     - 12345678
