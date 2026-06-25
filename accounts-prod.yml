@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts Service in Production Environment"
+  message: "Accounts Service in Prod Environment"
   contactDetails:
-    name: "ShubhamP"
+    name: "Shubham"
     email: "{cipher}a41270d1b22e35382b7ba158e90d07b1afc58ec41c910a06a3da9052be82e2d2ef1e18a4ebc36d2a07a4f90072cb0c8b"
     phone: "1234567890"
   OnCallSupport:
