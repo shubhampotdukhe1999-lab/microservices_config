@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts Service"
+  contactDetails:
+    name: "Shubham"
+    email: "shubham@gmail.com"
+    phone: "1234567890"
+  OnCallSupport:
+    - (+91) 1234567890
+    - (+91) 1234567891

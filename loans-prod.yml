@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+cards:
+  message: "Loans Microservice for Prod profile microservice"
+  contact:
+    name: "shubham1"
+    email: "shubham1@in.com"
+  onCall:
+    - 12345678
+    - 87654321

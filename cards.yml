@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Cards Microservice"
+  contact:
+    name: "shubham1"
+    email: "shubham1@in.com"
+  onCall:
+    - 1234567
+    - 7654321
+
